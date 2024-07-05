@@ -13,7 +13,7 @@
   },
   "dependencies": {
     "hexo": "^7.2.0",
-    "hexo-bilibili-bangumi": "^1.8.9",
+    "hexo-bilibili-bangumi": "^1.10.0",
     "hexo-butterfly-categories-card": "^1.0.0",
     "hexo-butterfly-swiper": "^1.0.12",
     "hexo-deployer-git": "^4.0.0",
