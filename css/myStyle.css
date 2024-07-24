@@ -153,7 +153,7 @@
 
 /* 全局宽度 参考:https://yisous.xyz/posts/d1fc759/ */
 .layout {
-  max-width: 1400px;
+  max-width: 1400px; 
 }
 
 /* 侧边卡片栏宽度 */
